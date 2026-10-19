@@ -146,7 +146,6 @@ export default function Home() {
         </div>
 
         <div className="invitation-layout">
-          <ChildhoodReveal />
 
           <div className="invitation-copy">
             <div className="mini-flower">✳</div>
