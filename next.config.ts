@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/parents-wedding-invitation",
+  basePath: "/wedding-invitation-colleages",
 
   images: {
     unoptimized: true,
